@@ -35,13 +35,13 @@ https://us-central1-hackgetnet-team56.cloudfunctions.net/save_booking_score
 ##### Tecnologias utilizadas
 * [Google Cloud Plataform] - Microserviços
 * [Python 3.8] - Backend
-* [Node.js 12] - frontend
+* [NodeJS 12] - Backend
 
 
-##### Link
-GCP: https://github.com/Nomade-Data/gcp-microservices.git
+##### Links
+Vídeo demo: https://github.com/Nomade-Data/gcp-microservices.git
 
-youtube: https://www.youtube.com/watch?v=I2QXmjBn4Yc
+Vídeo pitch: https://www.youtube.com/watch?v=I2QXmjBn4Yc
 
 PPT: 
 
