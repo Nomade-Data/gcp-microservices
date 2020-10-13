@@ -1,21 +1,19 @@
 ## Nomade Data
 
 ##### Sobre o projeto
-Criamos um SCORE de RISCO DE CRÉDITO para MEIOS DE HOSPEDAGEM, analisando métricas específica do mercado de turismo.
+Criamos um SCORE de RISCO DE CRÉDITO para MEIOS DE HOSPEDAGEM, analisando métricas específicas do mercado de turismo.
 
-Para isso, criamos metodos se capturar informações externas como booking, tripadvisor, serasa, reclame aqui, pagerank (google), etc.
+Para isso, criamos métodos de capturar informações externas como booking, tripadvisor, serasa, reclame aqui, pagerank (google), etc.
 
-O foco do projeto é oferecer mais segurança para financeiras realizar empréstimos para um mercado que está com dificuldades de aprovação de crédito.
+O foco do projeto é oferecer mais segurança para financeiras realizarem empréstimos para um mercado que está com dificuldades de aprovação de crédito.
 
-Para isso foi identificado alguns sistemas facilitadores que auxiliaram no preenchimento, reduzindo assim o input manual dos dados. Sao eles:
-* 1 - Extrair e armazenar Dados cadastrais na API da Receita Federal
-* 2 - Busca informações específica do setor (Booking, TripAdvisor)
-* 2 - Busca informações sobre avaliações de quartos (Booking, TripAdvisor)
-* 3 - Informações finananceiras do Serasa
-* 4 - Analise de sentimento dos clientes nas redes sociais (nao desenvolvido)
-* 5 - geração do score (não integrado com o google functions)
+Para isso, foram identificado alguns sistemas facilitadores que auxiliaram no preenchimento, reduzindo assim o input manual dos dados. São eles:
+* 1 - Extrair e armazenar dados cadastrais na API da Receita Federal.
+* 2 - Buscar informações específica do setor (Booking, TripAdvisor).
+* 3 - Buscar informações sobre avaliações de quartos (Booking, TripAdvisor).
+* 4 - Extrair informações finananceiras do Serasa.
 
-Todos os códigos foram clonados no Google Cloud, e estão aberta ao público.
+Todos os códigos foram clonados no Google Cloud, e estão abertos ao público.
 
 ![Arq](/arq.jpg)
 
