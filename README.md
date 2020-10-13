@@ -39,9 +39,9 @@ https://us-central1-hackgetnet-team56.cloudfunctions.net/save_booking_score
 
 
 ##### Links
-Vídeo demo: https://github.com/Nomade-Data/gcp-microservices.git
+Microserviços: https://github.com/Nomade-Data/gcp-microservices.git
 
-Vídeo pitch: https://www.youtube.com/watch?v=I2QXmjBn4Yc
+Vídeo demo: https://www.youtube.com/watch?v=I2QXmjBn4Yc
 
 PPT: 
 
