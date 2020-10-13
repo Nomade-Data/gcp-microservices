@@ -17,6 +17,8 @@ Para isso foi identificado alguns sistemas facilitadores que auxiliaram no preen
 
 Todos os códigos foram clonados no Google Cloud, e estão aberta ao público.
 
+![Arq](/arq.jpg)
+
 ##### APIs e comunicação (POST)
 
 https://us-central1-hackgetnet-team56.cloudfunctions.net/add_serasa_score
